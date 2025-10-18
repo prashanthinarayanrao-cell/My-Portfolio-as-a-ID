@@ -1,154 +1,177 @@
-# My-Portfolio-as-a-ID
+<h1 align="center">💼 Prashanthi Narayan Rao</h1>
 
-# 👩‍💼 **Prashanthi Narayan Rao**
-### Instructional Design | AI Learning Automation | Process Training | Quality Assurance
+<h3 align="center">Instructional Design | AI Learning Automation | Process Excellence | Learning Analytics</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
+  <a href="https://github.com/prashanthi-rao"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
+  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium"></a>
+  <a href="https://youtube.com/@prashanthi_learns"><img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube"></a>
+</p>
 
 ---
 
-### 💡 **About Me**
-
+## 💡 About Me
 > I design intelligent learning systems that make quality measurable, learning adaptive, and processes repeatable.  
 > With 10+ years in L&D, ID, and AI automation, I build scalable frameworks that enhance instructional quality, automate validation, and integrate ADDIE, Bloom, and Six Sigma for excellence.
 
 ---
 
-### 🚀 **Career Snapshot**
+## 🚀 Career Snapshot
 
-- 🧠 **AI-Driven Instructional Frameworks @ Tech Mahindra**  
-  Designed and deployed **SmartCoach-AI**, **AIVA**, and **Guideline Intelligence Agent (GIA)**  
-  → Reduced validation time by **40%** and boosted annotation accuracy by **35%**.
-
-- 🎓 **Learning Design Leadership @ LearningMate, Toppr & beGalileo**  
-  Combined **curriculum design**, **gamification**, and **adaptive learning** for measurable learner outcomes.
-
-- ⚙️ **Process Training & QA Automation**  
-  Built scalable training systems aligning SOPs, RCA frameworks, and learning analytics with automation tools.
+- 🧠 **AI-based Frameworks @ Tech Mahindra** – Built **SmartCoach-AI**, **AIVA**, and **GIA**, cutting validation time by **40%** and boosting QA accuracy by **35%**.  
+- 🎓 **Instructional Strategy @ LearningMate, Toppr, beGalileo** – Combined gamification, adaptive learning, and analytics for impactful designs.  
+- 🤖 **Specialization** – AI QA for learning systems using **ADDIE**, **Bloom**, and **Six Sigma** principles.
 
 ---
 
-### 🎯 **Key Focus Areas**
-
-1. Instructional Design & Learning Strategy  
-2. AI Learning Automation & Process QA  
-3. Process Training & Standardization  
-4. Prompt Engineering for Training Systems  
-5. Learning Analytics & Metadata Frameworks  
-6. L&D Process Excellence | Six Sigma Green Belt  
-
----
-
-### 🧾 **Exams & Certifications**
-
-| 🏅 **Certification / Exam** | 🏛️ **Issued By** | 📖 **Focus Area** |
-|:-----------------------------|:----------------|:------------------|
-| Instructional Design Foundations & Applications | Coursera / Univ. of Illinois | Learning models, ADDIE, evaluation |
-| AI in eLearning and EdTech Innovation | LinkedIn Learning | Integrating AI tools into instructional design |
-| eLearning QA Professional | ATD | QA frameworks, testing, RCA process design |
-| Process Excellence – Six Sigma Green Belt | ASQ / Coursera | Process mapping, measurement, control |
-| Python for Data Analysis & Automation | Google / Coursera | Automating QA dashboards using Pandas & Streamlit |
-| Storyline 360 Advanced Authoring | Articulate Academy | Interactive design and branching scenarios |
-| ChatGPT Custom Builder | OpenAI | Building GPTs for instructional automation |
+## 🎯 Key Focus Areas
+| # | Area | Description |
+|:--:|:------|:-------------|
+| 1 | 🧩 Instructional Design | Learning strategy, curriculum mapping, storyboards |
+| 2 | 🤖 AI Learning Automation | GPT-based automation of learning workflows |
+| 3 | 🧠 QA Frameworks | RCA, content validation, standardization |
+| 4 | 📊 Learning Analytics | Metadata and performance metrics |
+| 5 | ⚙️ Process Excellence | Six Sigma, Lean integration |
+| 6 | 🎮 Simulation Design | Technical and behavioral learning |
+| 7 | 🧾 Process Training | SOPs, audit training, compliance |
+| 8 | 🌐 AI Prompt Engineering | Instructional and QA prompts |
+| 9 | 🧮 Learning Evaluation | Kirkpatrick & data-driven evaluation |
+| 10 | 💬 Communication Design | Andragogy-based module structuring |
 
 ---
 
-### 🧩 **Highlighted Projects**
+<details>
+<summary><b>🎓 Exams & Certifications</b></summary>
 
-| 💼 **Project / System** | 📖 **Description** | 🧠 **Impact / Tools** |
-|:--------------------------|:------------------|:----------------------|
-| **SmartCoach-AI (Tech Mahindra)** | Adaptive AI coach for real-time skill evaluation and feedback. | 40% faster QA validation · Python · GPT API |
-| **AIVA (AI Validation Assistant)** | Automated QA validation for instructional content and design alignment. | Improved annotation accuracy by 35% |
-| **Guideline Intelligence Agent (GIA)** | NLP-driven agent mapping instructional text to design rubrics. | Reduced manual review load by 50% |
-| **Pharma Equipment Calibration Simulator** | Interactive simulation for digital validation training. | Articulate Storyline · Captivate |
-| **Andragogy Learning Designer GPT** | Custom GPT that generates learning modules using adult learning principles. | GPT Builder · Notion |
-| **Process Training Blueprint** | Designed process learning templates linking SOP → Training → QA → Analytics. | ADDIE · Six Sigma |
-| **RCA Tracker Dashboard** | Automated root cause tracking and pattern detection system. | Python · Streamlit |
+| 🏅 | Certification | Issuer | Focus Area | Year |
+|:--:|:----------------|:-----------|:-------------|:-----|
+| 1 | Instructional Design Foundations | Coursera | Learning Models, ADDIE | 2021 |
+| 2 | AI in eLearning | LinkedIn Learning | AI Integration | 2023 |
+| 3 | eLearning QA Professional | ATD | QA & RCA Frameworks | 2022 |
+| 4 | Python for Data Automation | Google | Automation Tools | 2023 |
+| 5 | Storyline 360 Advanced | Articulate | Interactive Simulations | 2020 |
+| 6 | Six Sigma Green Belt | ASQ | Process Optimization | 2019 |
+| 7 | ChatGPT Custom Builder | OpenAI | AI Training Systems | 2024 |
 
----
-
-### 🧠 **Process Training Frameworks**
-
-| 🧰 **Process Training Module** | 📖 **Description** | 🧩 **Tools / Methodology** |
-|:-------------------------------|:------------------|:---------------------------|
-| **AI in Process Validation** | Trains teams on AI-assisted validation, error tracking, and escalation handling. | RCA · Python Automation |
-| **L&D SOP Standardization** | Creates unified workflows for content review, versioning, and sign-offs. | Six Sigma · Miro Mapping |
-| **QA Review Pipeline** | Maps QA checkpoints to Bloom and Kirkpatrick models for measurable improvement. | LMS Integration · Excel Macros |
-| **Instructional Process Analytics** | Teaches data-driven insights extraction from review logs and learner data. | Tableau · Power BI |
-| **Feedback Loop Automation Training** | Converts manual training feedback cycles into AI-enabled insight systems. | GPT API · Google Sheets |
+</details>
 
 ---
 
-### 🧰 **Tools & Samples**
+<details>
+<summary><b>💼 Projects (Top 25)</b></summary>
 
-| 🛠️ **Category** | 🔧 **Tools / Platforms** | 📂 **Sample / Repo / Demo** |
-|:-----------------|:------------------------|:----------------------------|
-| **eLearning Authoring** | Articulate Storyline 360, Captivate, Vyond, Rise | [📘 Course Design Sample](#) |
-| **AI / ML & Automation** | Python, LangChain, GPT Builder, OpenAI API, Streamlit | [🤖 SmartCoach-AI Demo](#) |
-| **Analytics & Dashboards** | Power BI, Tableau, Excel VBA, Google Data Studio | [📊 L&D Analytics Dashboard](#) |
-| **Process Design** | Miro, Lucidchart, Notion, Jira | [🧩 SOP Process Map](#) |
-| **Learning QA Tools** | Selenium, Pandas, Regex Automation, RCA Tracker | [🧪 QA Automation Framework](#) |
-| **Content QA & Validation** | Grammarly API, GPT-4 Checker, Custom Rubric Validator | [📝 ID Rubric Validator](#) |
-| **LMS & Platforms** | Moodle, Blackboard, TalentLMS, ValGenesis VLMS | [🎓 LMS QA Workflow Guide](#) |
+| # | Project | Type | Description | Impact | Tools | Framework | Duration | AI Model | Outcome | Client | Status |
+|:--:|:-----------|:------|:-------------|:---------|:-----------|:------------|:-----------|:-----------|:-----------|:-----------|:-----------|
+| 1 | SmartCoach-AI | AI Framework | Adaptive feedback engine for L&D content | 40% faster validation | Python, GPT | ADDIE | 6 mo | GPT-4 | 95% accuracy | Tech Mahindra | Live |
+| 2 | AIVA | Automation | AI Validation Assistant | 35% ↑ in QA accuracy | Python | Bloom | 4 mo | GPT-4 | High accuracy | Tech Mahindra | Live |
+| 3 | GIA | NLP QA Bot | Auto-checks ID compliance | Reduced manual checks | Python | ID QA | 3 mo | GPT-3.5 | Stable | Tech Mahindra | Live |
+| 4 | RCA Dashboard | Streamlit App | RCA tracking automation | Automated QA RCA | Python, Streamlit | RCA | 2 mo | - | Success | Internal | Deployed |
+| 5 | Pharma Validation Simulator | Simulation | Equipment calibration training | Safe digital simulation | Storyline | ADDIE | 3 mo | - | Excellent | Pharma | Deployed |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
 
-> 🔗 Replace the **#** above with actual GitHub repos, Google Drive links, or live demo URLs for recruiters to explore your work.
-
----
-
-### 📝 **Publications & Blogs**
-
-| 🏷️ **Title** | 📖 **Description** |
-|:--------------|:------------------|
-| **Learning Experience Design: Beyond Content Delivery** | How andragogy transforms passive training into active performance. |
-| **AI in Learning: From Automation to Augmentation** | Using AI to enhance instructional design and personalization. |
-| **RCA in eLearning QA** | Applying Root Cause Analysis to improve course validation quality. |
-| **Building Process Intelligence in L&D** | Merging process excellence with adaptive learning systems. |
+</details>
 
 ---
 
-### 🎥 **YouTube & Learning Media**
+<details>
+<summary><b>🧩 Frameworks Worked On</b></summary>
 
-| ▶️ **Video Title** | 📖 **Description** |
-|:--------------------|:------------------|
-| **Instructional Design Explained Simply** | Animated walkthrough of ADDIE and Bloom’s principles. |
-| **AI for eLearning QA: The New Reviewer** | How GPT tools transform eLearning QA and automation. |
-| **Process Learning in Action** | Demonstration of SOP-based adaptive learning using AI feedback loops. |
+| # | Framework | Domain | Use Case | Description |
+|:--:|:-------------|:------------|:-------------|:-------------|
+| 1 | ADDIE | Design | Course development | Core design structure |
+| 2 | Bloom’s Taxonomy | Pedagogy | Learning outcome mapping | Measurable outcomes |
+| 3 | Kirkpatrick | Evaluation | Training impact | Level 1–4 analysis |
+| 4 | Six Sigma | Process | QA optimization | RCA, validation |
+| 5 | DMAIC | Process QA | Continuous improvement | QA cycles |
+| 6 | Merrill’s Principles | Design | Content flow | Sequencing |
+| 7 | SAM | Agile | Rapid iteration | Agile ID |
+| 8 | Gagné’s Events | Instruction | Engagement | Lesson planning |
+| 9 | Andragogy | Adult Learning | Motivation | Learner-centered |
+| 10 | ADD+IE | Hybrid | Design + Evaluation | Holistic QA |
 
----
-
-### 🧪 **QA Tools & Automation**
-
-| 🧰 **Tool / Process** | 📖 **Description** | ⚙️ **Tech Stack** |
-|:-----------------------|:------------------|:------------------|
-| **Content Consistency Validator** | Automates terminology and tone consistency checks. | Excel Macros · Sheets API |
-| **AI RCA Tracker** | Detects recurring QA patterns and root causes across datasets. | Python · Pandas · Streamlit |
-| **eLearning QA Framework** | End-to-end QA automation for LMS upload validation. | Selenium · Python |
-| **Guideline Intelligence Agent (GIA)** | NLP model that aligns ID text to instructional rubrics. | GPT API · LangChain |
-
----
-
-### 🎓 **Education**
-
-- **Master’s in Instructional Design & Educational Technology**  
-- **Bachelor’s in Computer Science / Engineering**
+</details>
 
 ---
 
-### 🔗 **Professional Profiles**
+<details>
+<summary><b>🧰 Tools & Samples</b></summary>
 
-| 🌐 **Platform** | 🔗 **Profile Link** |
-|:----------------|:-------------------|
-| 💼 **LinkedIn** | [linkedin.com/in/prashanthi-narayan-rao](https://www.linkedin.com/in/prashanthi-narayan-rao) |
-| 💻 **GitHub** | [github.com/prashanthi-rao](https://github.com/prashanthi-rao) |
-| 📝 **Medium Blog** | [medium.com/@prashanthi.n.rao](https://medium.com/@prashanthi.n.rao) |
-| 📺 **YouTube** | [youtube.com/@prashanthi_learns](https://youtube.com/@prashanthi_learns) |
-| 🐦 **Twitter / X** | [twitter.com/prashanthi_rao](https://twitter.com/prashanthi_rao) |
+| # | Tool | Category | Use Case | Example / Sample |
+|:--:|:---------|:-------------|:------------------|:------------------|
+| 1 | Articulate Storyline | Authoring | Simulations & branching | [Sample Link](#) |
+| 2 | Captivate | Authoring | Scenario-based training | [Sample Link](#) |
+| 3 | Python | Programming | QA Automation | [Sample Link](#) |
+| 4 | Streamlit | Dashboard | RCA Visualizations | [Sample Link](#) |
+| 5 | Figma | Design | Wireframes | [Sample Link](#) |
+| 6 | Excel Macros | Automation | QA Reports | [Sample Link](#) |
+| 7 | GPT Builder | AI Platform | Custom GPT for ID | [Sample Link](#) |
+| 8 | Power BI | Analytics | Data Dashboards | [Sample Link](#) |
+| 9 | Jira | Management | Agile Sprint Tracking | [Sample Link](#) |
+| 10 | Confluence | Docs | SOP & QA Mapping | [Sample Link](#) |
+| ... | ... | ... | ... | ... |
+
+</details>
 
 ---
 
-### 💬 **Let’s Connect**
-📧 **Email:** prashanthi.n.rao@gmail.com  
-📍 **Location:** India  
-🌟 *Exploring collaborations in AI-driven L&D, process intelligence, and automation design.*
+<details>
+<summary><b>📘 Blogs & Publications</b></summary>
+
+| 🏷️ | Title | Description | Link |
+|:--:|:-------------|:-------------|:-------------|
+| 1 | Learning Experience Design: Beyond Content Delivery | How andragogy transforms learning into performance. | [Read](#) |
+| 2 | AI in Learning: From Automation to Augmentation | Using AI to personalize instructional design. | [Read](#) |
+| 3 | RCA in eLearning QA | Root Cause Analysis for QA improvement. | [Read](#) |
+
+</details>
 
 ---
 
-✨ _“Turning instructional design into intelligent systems — where learning adapts, and quality evolves.”_
+<details>
+<summary><b>🎮 Simulations</b></summary>
+
+| # | Simulation | Type | Focus | Tool |
+|:--:|:-------------|:-------------|:-------------|:-------------|
+| 1 | Pharma Equipment Validation | Process | Calibration training | Storyline |
+| 2 | Compliance Simulation | Policy | Audit response | Captivate |
+| 3 | Adaptive Coach | Behavioral | Managerial feedback | Storyline |
+
+</details>
+
+---
+
+<details>
+<summary><b>📘 Process Training</b></summary>
+
+| # | Module | Description | Framework | Outcome |
+|:--:|:-----------|:-------------|:-------------|:-------------|
+| 1 | RCA Process | How to identify, document, and resolve QA issues | DMAIC | Continuous Improvement |
+| 2 | SOP Writing | Standardization of training processes | ADDIE | Consistency |
+| 3 | AI QA Workflow | Automating validation through GPT tools | AI QA | Efficiency |
+| 4 | Metadata Management | Structuring learning analytics | L&D Analytics | Traceability |
+
+</details>
+
+---
+
+## 🎓 Education
+
+🎓 **Master’s in Instructional Design & Educational Technology**  
+💻 **Bachelor’s in Computer Science / Engineering**
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://github.com/prashanthi-rao"><img src="https://img.shields.io/badge/GitHub-View%20Projects-black?logo=github&style=for-the-badge"></a>
+  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium&style=for-the-badge"></a>
+  <a href="https://youtube.com/@prashanthi_learns"><img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube&style=for-the-badge"></a>
+</p>
+
+---
+
+### 🌈 *“AI is not replacing learning design — it’s redefining how we measure quality, experience, and growth.”*
+
