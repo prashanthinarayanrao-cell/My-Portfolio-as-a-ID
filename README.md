@@ -3,11 +3,21 @@
 <h3 align="center">Instructional Design | AI Learning Automation | Process Excellence | Learning Analytics</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/"></a>
-  <a href="https://github.com/prashanthi-rao"><img src="https://github.com/prashanthinarayanrao-cell"></a>
-  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://nrao-prashanthi.medium.com/"></a>
-  <a href="https://youtube.com/@prashanthi_learns"><img src="(https://www.youtube.com/@mathematicsclassroombypras1273)"></a>
-   <a href="https://www.geogebra.org_learns"><img src="https://www.geogebra.org/u/prashanthirao"></a>
+  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin">
+  </a>
+  <a href="https://github.com/prashanthi-rao">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github">
+  </a>
+  <a href="https://nrao-prashanthi.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium">
+  </a>
+  <a href="https://www.youtube.com/@mathematicsclassroombypras1273">
+    <img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube">
+  </a>
+  <a href="https://www.geogebra.org/u/prashanthirao">
+    <img src="https://img.shields.io/badge/GeoGebra-Interactive%20Learning-blueviolet?logo=geogebra">
+  </a>
 </p>
 
 ---
@@ -19,26 +29,25 @@
 ---
 
 ## 🚀 Career Snapshot
-
-- 🧠 **AI-based Frameworks @ Tech Mahindra** – Built **SmartCoach-AI**, **AIVA**, and **GIA**, cutting validation time by **40%** and boosting QA accuracy by **35%**.  
-- 🎓 **Instructional Strategy @ LearningMate, Toppr, beGalileo** – Combined gamification, adaptive learning, and analytics for impactful designs.  
-- 🤖 **Specialization** – AI QA for learning systems using **ADDIE**, **Bloom**, and **Six Sigma** principles.
+- 🧠 **AI-based Frameworks @ Tech Mahindra** — Built **SmartCoach-AI**, **AIVA**, and **GIA**, cutting validation time by 40% and boosting QA accuracy by 35%.  
+- 🎓 **Learning Design @ LearningMate, Toppr, beGalileo** — Combined gamification, adaptive learning, and analytics.  
+- 🤖 **Specialization** — AI QA for learning systems applying **ADDIE**, **Bloom**, and **Six Sigma**.
 
 ---
 
 ## 🎯 Key Focus Areas
 | # | Area | Description |
-|:--:|:------|:-------------|
-| 1 | 🧩 Instructional Design | Learning strategy, curriculum mapping, storyboards |
-| 2 | 🤖 AI Learning Automation | GPT-based automation of learning workflows |
-| 3 | 🧠 QA Frameworks | RCA, content validation, standardization |
-| 4 | 📊 Learning Analytics | Metadata and performance metrics |
-| 5 | ⚙️ Process Excellence | Six Sigma, Lean integration |
-| 6 | 🎮 Simulation Design | Technical and behavioral learning |
-| 7 | 🧾 Process Training | SOPs, audit training, compliance |
-| 8 | 🌐 AI Prompt Engineering | Instructional and QA prompts |
-| 9 | 🧮 Learning Evaluation | Kirkpatrick & data-driven evaluation |
-| 10 | 💬 Communication Design | Andragogy-based module structuring |
+|:-:|:------|:-------------|
+| 1 | 🧩 Instructional Design | Strategy, curriculum mapping, storyboarding |
+| 2 | 🤖 AI Learning Automation | GPT-driven learning workflows |
+| 3 | 🧠 QA Frameworks | RCA, validation, standardization |
+| 4 | 📊 Learning Analytics | Metadata frameworks, dashboards |
+| 5 | ⚙️ Process Excellence | Six Sigma / Lean optimization |
+| 6 | 🎮 Simulation Design | Technical + behavioral learning |
+| 7 | 🧾 Process Training | SOPs & compliance enablement |
+| 8 | 🌐 Prompt Engineering | Instructional & QA automation |
+| 9 | 🧮 Learning Evaluation | Kirkpatrick / data-driven QA |
+|10 | 💬 Communication Design | Andragogy-centered modules |
 
 ---
 
@@ -46,12 +55,12 @@
 <summary><b>🎓 Exams & Certifications</b></summary>
 
 | 🏅 | Certification | Issuer | Focus Area | Year |
-|:--:|:----------------|:-----------|:-------------|:-----|
-| 1 | Instructional Design Foundations | Coursera | Learning Models, ADDIE | 2021 |
+|:-:|:--------------|:--------|:------------|:----:|
+| 1 | Instructional Design Foundations | Coursera / Illinois | ADDIE & Learning Models | 2021 |
 | 2 | AI in eLearning | LinkedIn Learning | AI Integration | 2023 |
 | 3 | eLearning QA Professional | ATD | QA & RCA Frameworks | 2022 |
-| 4 | Python for Data Automation | Google | Automation Tools | 2023 |
-| 5 | Storyline 360 Advanced | Articulate | Interactive Simulations | 2020 |
+| 4 | Python for Data Automation | Google / Coursera | Automation Tools | 2023 |
+| 5 | Storyline 360 Advanced | Articulate Academy | Interactive Simulations | 2020 |
 | 6 | Six Sigma Green Belt | ASQ | Process Optimization | 2019 |
 | 7 | ChatGPT Custom Builder | OpenAI | AI Training Systems | 2024 |
 
@@ -63,13 +72,13 @@
 <summary><b>💼 Projects (Top 25)</b></summary>
 
 | # | Project | Type | Description | Impact | Tools | Framework | Duration | AI Model | Outcome | Client | Status |
-|:--:|:-----------|:------|:-------------|:---------|:-----------|:------------|:-----------|:-----------|:-----------|:-----------|:-----------|
+|:-:|:--------|:------|:------------|:--------|:-------|:-----------|:----------|:----------|:----------|:--------|:--------|
 | 1 | SmartCoach-AI | AI Framework | Adaptive feedback engine for L&D content | 40% faster validation | Python, GPT | ADDIE | 6 mo | GPT-4 | 95% accuracy | Tech Mahindra | Live |
-| 2 | AIVA | Automation | AI Validation Assistant | 35% ↑ in QA accuracy | Python | Bloom | 4 mo | GPT-4 | High accuracy | Tech Mahindra | Live |
-| 3 | GIA | NLP QA Bot | Auto-checks ID compliance | Reduced manual checks | Python | ID QA | 3 mo | GPT-3.5 | Stable | Tech Mahindra | Live |
-| 4 | RCA Dashboard | Streamlit App | RCA tracking automation | Automated QA RCA | Python, Streamlit | RCA | 2 mo | - | Success | Internal | Deployed |
-| 5 | Pharma Validation Simulator | Simulation | Equipment calibration training | Safe digital simulation | Storyline | ADDIE | 3 mo | - | Excellent | Pharma | Deployed |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+| 2 | AIVA | Automation | AI Validation Assistant | 35% ↑ QA accuracy | Python | Bloom | 4 mo | GPT-4 | High Accuracy | Tech Mahindra | Live |
+| 3 | GIA | NLP QA Bot | ID compliance checker | ↓ manual effort 40% | Python | ID QA | 3 mo | GPT-3.5 | Stable | Tech Mahindra | Live |
+| 4 | RCA Dashboard | QA Tool | RCA tracking automation | Auto RCA generation | Streamlit | DMAIC | 2 mo | — | Success | Internal | Deployed |
+| 5 | Pharma Validation Simulator | Simulation | Equipment training simulation | Safe virtual calibration | Storyline | ADDIE | 3 mo | — | Excellent | Pharma | Live |
+| 6 – 25 | … | … | … | … | … | … | … | … | … | … | … |
 
 </details>
 
@@ -78,18 +87,18 @@
 <details>
 <summary><b>🧩 Frameworks Worked On</b></summary>
 
-| # | Framework | Domain | Use Case | Description |
-|:--:|:-------------|:------------|:-------------|:-------------|
-| 1 | ADDIE | Design | Course development | Core design structure |
-| 2 | Bloom’s Taxonomy | Pedagogy | Learning outcome mapping | Measurable outcomes |
-| 3 | Kirkpatrick | Evaluation | Training impact | Level 1–4 analysis |
-| 4 | Six Sigma | Process | QA optimization | RCA, validation |
-| 5 | DMAIC | Process QA | Continuous improvement | QA cycles |
-| 6 | Merrill’s Principles | Design | Content flow | Sequencing |
-| 7 | SAM | Agile | Rapid iteration | Agile ID |
-| 8 | Gagné’s Events | Instruction | Engagement | Lesson planning |
-| 9 | Andragogy | Adult Learning | Motivation | Learner-centered |
-| 10 | ADD+IE | Hybrid | Design + Evaluation | Holistic QA |
+| # | Framework | Domain | Application | Description |
+|:-:|:-----------|:---------|:-------------|:-------------|
+| 1 | ADDIE | Design | Course Development | Core instructional framework |
+| 2 | Bloom’s Taxonomy | Pedagogy | Learning Objectives | Outcome mapping |
+| 3 | Kirkpatrick | Evaluation | Training Impact | Level 1–4 Metrics |
+| 4 | Six Sigma | Process | QA Optimization | RCA / Improvement |
+| 5 | DMAIC | Process | Continuous QA | Define-Measure-Analyze-Improve-Control |
+| 6 | SAM | Agile Design | Rapid Iteration | Prototyping |
+| 7 | Gagné’s Nine Events | Instruction | Engagement | Lesson Flow |
+| 8 | Andragogy | Adult Learning | Motivation | Learner Centered |
+| 9 | Merrill’s Principles | Design | Content Sequencing | Cognitive Structure |
+| 10 | ADD+IE | Hybrid | Design + Evaluation | Integrated Learning QA |
 
 </details>
 
@@ -98,19 +107,18 @@
 <details>
 <summary><b>🧰 Tools & Samples</b></summary>
 
-| # | Tool | Category | Use Case | Example / Sample |
-|:--:|:---------|:-------------|:------------------|:------------------|
-| 1 | Articulate Storyline | Authoring | Simulations & branching | [Sample Link](#) |
-| 2 | Captivate | Authoring | Scenario-based training | [Sample Link](#) |
-| 3 | Python | Programming | QA Automation | [Sample Link](#) |
-| 4 | Streamlit | Dashboard | RCA Visualizations | [Sample Link](#) |
-| 5 | Figma | Design | Wireframes | [Sample Link](#) |
-| 6 | Excel Macros | Automation | QA Reports | [Sample Link](#) |
-| 7 | GPT Builder | AI Platform | Custom GPT for ID | [Sample Link](#) |
-| 8 | Power BI | Analytics | Data Dashboards | [Sample Link](#) |
-| 9 | Jira | Management | Agile Sprint Tracking | [Sample Link](#) |
-| 10 | Confluence | Docs | SOP & QA Mapping | [Sample Link](#) |
-| ... | ... | ... | ... | ... |
+| # | Tool | Category | Use Case | Sample / Example |
+|:-:|:------|:-----------|:----------|:----------------|
+| 1 | Articulate Storyline | Authoring | Interactive eLearning | [Sample 1](#) |
+| 2 | Captivate | Authoring | Scenario Training | [Sample 2](#) |
+| 3 | Python | Automation | QA Bots / Data QA | [Code](#) |
+| 4 | Streamlit | Dashboard | RCA Visualizer | [App](#) |
+| 5 | Figma | Design | ID Wireframes | [Mockup](#) |
+| 6 | Power BI | Analytics | KPI Dashboards | [Dashboard](#) |
+| 7 | Excel Macros | Automation | QA Reports | [Template](#) |
+| 8 | GPT Builder | AI Platform | Custom GPTs | [Example](#) |
+| 9 | Jira | Management | Sprint Tracking | [Workflow](#) |
+| 10 | GeoGebra | Simulation | Math Visualizations | [Models](https://www.geogebra.org/u/prashanthirao) |
 
 </details>
 
@@ -120,10 +128,10 @@
 <summary><b>📘 Blogs & Publications</b></summary>
 
 | 🏷️ | Title | Description | Link |
-|:--:|:-------------|:-------------|:-------------|
-| 1 | Learning Experience Design: Beyond Content Delivery | How andragogy transforms learning into performance. | [Read](#) |
-| 2 | AI in Learning: From Automation to Augmentation | Using AI to personalize instructional design. | [Read](#) |
-| 3 | RCA in eLearning QA | Root Cause Analysis for QA improvement. | [Read](#) |
+|:-:|:--------|:-------------|:------|
+| 1 | Learning Experience Design: Beyond Content Delivery | How andragogy turns learning into performance | [Read](https://nrao-prashanthi.medium.com/) |
+| 2 | AI in Learning: From Automation to Augmentation | Personalizing instructional design with AI | [Read](https://nrao-prashanthi.medium.com/) |
+| 3 | RCA in eLearning QA | Applying Root Cause Analysis in course QA | [Read](https://nrao-prashanthi.medium.com/) |
 
 </details>
 
@@ -133,10 +141,11 @@
 <summary><b>🎮 Simulations</b></summary>
 
 | # | Simulation | Type | Focus | Tool |
-|:--:|:-------------|:-------------|:-------------|:-------------|
-| 1 | Pharma Equipment Validation | Process | Calibration training | Storyline |
-| 2 | Compliance Simulation | Policy | Audit response | Captivate |
-| 3 | Adaptive Coach | Behavioral | Managerial feedback | Storyline |
+|:-:|:-------------|:-------------|:-------------|:-------------|
+| 1 | Pharma Equipment Validation | Process | Calibration Training | Storyline |
+| 2 | Compliance Audit Simulator | Policy | Audit Response | Captivate |
+| 3 | Adaptive Coach | Behavioral | Manager Feedback | Storyline |
+| 4 | Interactive Math Models | Educational | Geometry, Algebra, Calculus | [GeoGebra](https://www.geogebra.org/u/prashanthirao) |
 
 </details>
 
@@ -146,33 +155,32 @@
 <summary><b>📘 Process Training</b></summary>
 
 | # | Module | Description | Framework | Outcome |
-|:--:|:-----------|:-------------|:-------------|:-------------|
-| 1 | RCA Process | How to identify, document, and resolve QA issues | DMAIC | Continuous Improvement |
-| 2 | SOP Writing | Standardization of training processes | ADDIE | Consistency |
-| 3 | AI QA Workflow | Automating validation through GPT tools | AI QA | Efficiency |
-| 4 | Metadata Management | Structuring learning analytics | L&D Analytics | Traceability |
+|:-:|:-----------|:-------------|:-------------|:-------------|
+| 1 | RCA Process | Identify and document QA issues | DMAIC | Continuous Improvement |
+| 2 | SOP Writing | Standardized process training | ADDIE | Consistency |
+| 3 | AI QA Workflow | Automated validation pipeline | AI QA | Efficiency |
+| 4 | Metadata Management | Learning Analytics Structure | L&D Analytics | Traceability |
 
 </details>
 
 ---
 
 ## 🎓 Education
-
 🎓 **Master’s in Instructional Design & Educational Technology**  
 💻 **Bachelor’s in Computer Science / Engineering**
 
 ---
 
 ## 🔗 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"></a>
   <a href="https://github.com/prashanthi-rao"><img src="https://img.shields.io/badge/GitHub-View%20Projects-black?logo=github&style=for-the-badge"></a>
-  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium&style=for-the-badge"></a>
-  <a href="https://youtube.com/@prashanthi_learns"><img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube&style=for-the-badge"></a>
+  <a href="https://nrao-prashanthi.medium.com/"><img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium&style=for-the-badge"></a>
+  <a href="https://www.youtube.com/@mathematicsclassroombypras1273"><img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube&style=for-the-badge"></a>
+  <a href="https://www.geogebra.org/u/prashanthirao"><img src="https://img.shields.io/badge/GeoGebra-Interactive-blueviolet?logo=geogebra&style=for-the-badge"></a>
 </p>
 
 ---
 
-### 🌈 *“AI is not replacing learning design — it’s redefining how we measure quality, experience, and growth.”*
+### 🌈 *“AI doesn’t replace learning design — it redefines how we measure quality, experience, and growth.”*
 
