@@ -3,10 +3,11 @@
 <h3 align="center">Instructional Design | AI Learning Automation | Process Excellence | Learning Analytics</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin"></a>
-  <a href="https://github.com/prashanthi-rao"><img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github"></a>
-  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://img.shields.io/badge/Medium-Blogs-green?logo=medium"></a>
-  <a href="https://youtube.com/@prashanthi_learns"><img src="https://img.shields.io/badge/YouTube-Learning-red?logo=youtube"></a>
+  <a href="https://www.linkedin.com/in/prashanthi-narayan-rao/"><img src="https://www.linkedin.com/in/prashanthi-narayan-rao-343a3135b/"></a>
+  <a href="https://github.com/prashanthi-rao"><img src="https://github.com/prashanthinarayanrao-cell"></a>
+  <a href="https://medium.com/@prashanthi.n.rao"><img src="https://nrao-prashanthi.medium.com/"></a>
+  <a href="https://youtube.com/@prashanthi_learns"><img src="(https://www.youtube.com/@mathematicsclassroombypras1273)"></a>
+   <a href="https://www.geogebra.org_learns"><img src="https://www.geogebra.org/u/prashanthirao"></a>
 </p>
 
 ---
