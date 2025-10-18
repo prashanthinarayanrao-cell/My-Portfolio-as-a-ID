@@ -29,7 +29,7 @@
 ---
 
 ## 🚀 Career Snapshot
-- 🧠 **AI-based Frameworks @ Tech Mahindra** — Built **SmartCoach-AI**, **AIVA**, and **GIA**, cutting validation time by 40% and boosting QA accuracy by 35%.  
+- 🧠 **AI-based Frameworks @ Tech Mahindra** — Built **AIVA**, and **GIA**, cutting validation time by 40% and boosting QA accuracy by 35%.  
 - 🎓 **Learning Design @ LearningMate, Toppr, beGalileo** — Combined gamification, adaptive learning, and analytics.  
 - 🤖 **Specialization** — AI QA for learning systems applying **ADDIE**, **Bloom**, and **Six Sigma**.
 
